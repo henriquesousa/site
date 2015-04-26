@@ -18,10 +18,7 @@ $app->get('/', function() use ($app) {
 $app->get('/', function() {
     return view('site.index');
 });
-$app->get('images/{name}', function() {
-    return $name;
-});
 
-$app->post('contato', function() {
-    return \requested;
+$app->get('contato', function() {
+    return "teste rotas";
 });
