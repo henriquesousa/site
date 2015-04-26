@@ -18,11 +18,9 @@ $app->get('/', function() use ($app) {
 $app->get('/', function() {
     return view('site.index');
 });
-
 $app->get('/index', function() {
     return view('site.index');
 });
-
 $app->get('contato', function() {
     return "teste rotas";
 });
