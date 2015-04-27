@@ -156,10 +156,12 @@
 			<div class="row content-row">
 				<div class="col-1 col-sm-1 hidden-sm">&nbsp;</div>
 				<div class="col-12 col-sm-2"><img src="images/parceiros/webforsite.png" alt=""></div>
+				<!--
 				<div class="col-12 col-sm-2"><img src="images/client02.png" alt=""></div>
 				<div class="col-12 col-sm-2"><img src="images/client03.png" alt=""></div>
 				<div class="col-12 col-sm-2"><img src="images/client04.png" alt=""></div>
 				<div class="col-12 col-sm-2"><img src="images/client05.png" alt=""></div>
+				-->
 				<div class="col-1 col-sm-1 hidden-sm">&nbsp;</div>
 			</div><!-- /row -->
 		</div><!-- /container -->
